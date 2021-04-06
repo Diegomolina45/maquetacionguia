@@ -1,0 +1,182 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:auto;
+    background-color:#221d1e; 
+}
+.padre{
+    background-color:#231F20;
+    width: 705px;
+    height: 768px;
+    display:flex;
+    justify-content: center; 
+    position: relative;
+    z-index: 1
+}
+
+.container{
+    background-color:#58585A;
+    width: 100%;
+    height: 123px;
+    margin-top:63px;
+    display:flex;
+    justify-content: center; 
+    position: absolute;
+    z-index: 2
+}
+.naranjamenu{
+    background-color:#F26523;
+    width: 209px;
+    height: 43px;
+    margin-top:27px;
+    display:flex;
+    right:29rem;
+    justify-content: center; 
+    position: absolute;
+    z-index: 3
+}
+.blancomenu{
+    background-color:#D7D8DA;
+    width: 136px;
+    height: 25px;
+    margin-top:38px;
+    display:flex;
+    left:17rem;
+    justify-content: center; 
+    position: absolute;
+    z-index: 4
+}
+.blancomenudos{
+    background-color:#D7D8DA;
+    width: 136px;
+    height: 25px;
+    margin-top:38px;
+    display:flex;
+    right:9.5rem;
+    justify-content: center; 
+    position: absolute;
+    z-index: 5
+}
+.cremamenu{
+    background-color:#E7A234;
+    width: 136px;
+    height: 25px;
+    margin-top:38px;
+    display:flex;
+    left:35rem;
+    justify-content: center; 
+    position: absolute;
+    z-index: 6
+}
+.contenido{
+	background-color:#404042;
+    width: 690px;
+    height: 555px;
+    margin-top:122px;
+    display:flex;
+    justify-content: center; 
+    position: absolute;
+    z-index: 7
+}
+.cuadronaranja{
+	background-color:#F36422;
+    width: 215px;
+    height: 130px;
+    margin-top:38px;
+    display:flex;
+    right:28rem;
+    justify-content: center; 
+    position: absolute;
+    z-index: 8
+}
+.cuadroblanco{
+	background-color:#E6E6E8;
+    width: 257px;
+    height: 32px;
+    margin-top:180px;
+    display:flex;
+    right:25.5rem;
+    justify-content: center; 
+    position: absolute;
+    z-index: 9
+}
+.cuadrocrema{
+	background-color:#E6A233;
+    width: 130px;
+    height: 130px;
+    margin-top:250px;
+    display:flex;
+    right:33.5rem;
+    justify-content: center; 
+    position: absolute;
+    z-index: 10
+}
+.cuadroblancodos{
+	background-color:#E6E6E8;
+    width: 257px;
+    height: 32px;
+    margin-top:392px;
+    display:flex;
+    right:25.5rem;
+    justify-content: center; 
+    position: absolute;
+    z-index: 11
+}
+
+.grandegris{
+	background-color:#6C6D71;
+    width: 194px;
+    height: 555px;
+    margin-top:0px;
+    display:flex;
+    left:29rem;
+    justify-content: center; 
+    position: absolute;
+    z-index: 12
+}
+.claritouno{
+	background-color:#949599;
+    width: 145px;
+    height: 27px;
+    margin-top:25px;
+    display:flex;
+    left:30.5rem;
+    justify-content: center; 
+    position: absolute;
+    z-index: 13
+}
+.claritodos{
+	background-color:#949599;
+    width: 145px;
+    height: 27px;
+    margin-top:133px;
+    display:flex;
+    left:30.5rem;
+    justify-content: center; 
+    position: absolute;
+    z-index: 14
+}
+.claritotres{
+	background-color:#949599;
+    width: 145px;
+    height: 27px;
+    margin-top:266px;
+    display:flex;
+    left:30.5rem;
+    justify-content: center; 
+    position: absolute;
+    z-index: 15
+}
+.claritocuatro{
+	background-color:#949599;
+    width: 145px;
+    height: 27px;
+    margin-top:399px;
+    display:flex;
+    left:30.5rem;
+    justify-content: center; 
+    position: absolute;
+    z-index: 16
+}
+https://www.youtube.com/watch?v=6Isbqq60efU

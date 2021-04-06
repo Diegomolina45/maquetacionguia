@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:auto;
+    background-color:#221b1e; 
+}
+.padre{
+    background-color:black;
+    width: 745px;
+    height: 768px;
+    display:flex;
+    justify-content: center; 
+    position: relative;
+    z-index: 1
+}
+.uno{
+    margin-top:63px;
+    display:flex;
+    justify-content: center; 
+    position: absolute;
+    z-index: 2
+}
+.dos{
+    margin-top:63px;
+    display:flex;
+    justify-content: center; 
+    position: absolute;
+    z-index: 3
+}
+.tres{
+    margin-top:63px;
+    display:flex;
+    justify-content: center; 
+    position: absolute;
+    z-index: 4
+}
+.cuatro{
+    margin-top:63px;
+    display:flex;
+    justify-content: center; 
+    position: absolute;
+    z-index: 5
+}
+.cinco{
+    margin-top:63px;
+    display:flex;
+    justify-content: center; 
+    position: absolute;
+    z-index: 6
+}
+.seis{
+    margin-top:63px;
+    display:flex;
+    justify-content: center; 
+    position: absolute;
+    z-index: 7
+}
+.siete{
+    margin-top:63px;
+    display:flex;
+    justify-content: center; 
+    position: absolute;
+    z-index: 8
+}
+.ocho{
+    margin-top:63px;
+    display:flex;
+    justify-content: center; 
+    position: absolute;
+    z-index: 9
+}
+.nueve{
+    margin-top:63px;
+    display:flex;
+    justify-content: center; 
+    position: absolute;
+    z-index: 10
+}
+.diez{
+    margin-top:63px;
+    display:flex;
+    justify-content: center; 
+    position: absolute;
+    z-index: 11
+}
+.doce{
+    margin-top:63px;
+    display:flex;
+    justify-content: center; 
+    position: absolute;
+    z-index: 13
+}
